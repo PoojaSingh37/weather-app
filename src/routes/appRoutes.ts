@@ -4,7 +4,7 @@ import Weather from '@Views/Weather';
 
 const appRoutes: IRoute[] = [
   {
-    path: '/weather',
+    path: '/',
     name: 'Weather ',
     component: Weather,
   
